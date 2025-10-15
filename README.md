@@ -2,7 +2,7 @@
 
 ![Hospital Building](https://images.unsplash.com/photo-1586773860418-d37222d8fce3?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080)
 
-## Overview
+## Overview (Python,PowerBI)
 
 A data analytics project focused on hospital operations, based on a comprehensive dataset of hospital patients, departments, staff, and bed occupancy. The repository includes data exploration, transformation and visualization steps, culminating in a single-page Power BI dashboard for stakeholders.
 
