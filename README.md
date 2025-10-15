@@ -52,11 +52,13 @@ The notebook and dashboard address:
 ## Power BI Dashboard
 
 The dashboard (single page) displays the following:
-- Patient and revenue trends over months
-- Departmental breakdown of revenue and admissions
-- Age, gender, location profiles
-- Feedback and satisfaction ratings
+- KPIs include total patient count, total treatment cost.....
+- Pie chart on patient status Details
+- Bar chart on Department wise total cost and Bed details
+- Line chart on count of patients over month
 - Main KPIs with filter/slicer options
+
+- ![Dashboard Image](.\Hospital.png)
 
 ---
 
