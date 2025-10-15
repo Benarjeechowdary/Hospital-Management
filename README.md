@@ -58,7 +58,7 @@ The dashboard (single page) displays the following:
 - Line chart on count of patients over month
 - Main KPIs with filter/slicer options
 
-- ![Dashboard Image](.\Hospital.png)
+- ![Dashboard Image](./Hospital.png)
 
 ---
 
